@@ -1,5 +1,4 @@
 # 2022movie-list
-# Movie List
 A simple web application for movie fanatic
 
 ## Features
