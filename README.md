@@ -1,9 +1,11 @@
 # AC-Exercise S2 A30 movie-list
+Alpha Camp Semester2 Exercise A30
 A simple web application for movie fanatic
 
 ## Features
 - listing movies from movie api
 - searching movies by title
+- showing a movie details on modal
 - add movies to your favorite list
 - manage your favorite list
 
