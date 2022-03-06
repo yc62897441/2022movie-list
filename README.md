@@ -1,4 +1,4 @@
-# 2022movie-list
+# AC-Exercise S2 A30 movie-list
 A simple web application for movie fanatic
 
 ## Features
